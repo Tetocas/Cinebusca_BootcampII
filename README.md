@@ -113,4 +113,4 @@ O projeto utiliza **GitHub Actions** para rodar automaticamente a cada push:
 
 ## 👤 Autor
 
-Desenvolvido por **[Seu Nome]** — BootCamp Etapa 2.
+Desenvolvido por **Mateus Carreiro Claudino** — BootCamp Etapa 2.
